@@ -1,2 +1,2 @@
 # DNApy-tools
-Basic scripts to manipulate DNA sequences
+Basic scripts to manipulate DNA sequences.
